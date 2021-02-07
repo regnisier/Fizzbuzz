@@ -1,0 +1,30 @@
+HAI 1.2
+    I HAS A GOAL ITZ 100
+    I HAS A NOW ITZ 0
+
+    IM IN YR BRRR
+
+    NOW R SUM OF NOW AN 1
+
+    I HAS A IsFizz ITZ BOTH SAEM MOD OF NOW AN 3 AN 0
+    I HAS A IsBuzz ITZ BOTH SAEM MOD OF NOW AN 5 AN 0
+
+    BOTH OF IsFizz AN IsBuzz, O RLY?
+        YA RLY, VISIBLE "FIZZBUZZ"
+
+        MEBBE IsFizz
+        VISIBLE "FIZZ"
+
+        MEBBE IsBuzz
+        VISIBLE "FUZZ"
+
+        NO WAI, VISIBLE NOW
+    OIC
+
+    BOTH SAEM NOW AN GOAL, O RLY?
+        YA RLY, GTFO
+        NO WAI, BTW KEEP GRINDIN
+    OIC
+
+    IM OUTTA YR BRRR
+KTHXBYE
