@@ -16,7 +16,7 @@ HAI 1.2
         VISIBLE "FIZZ"
 
         MEBBE IsBuzz
-        VISIBLE "FUZZ"
+        VISIBLE "BUZZ"
 
         NO WAI, VISIBLE NOW
     OIC
